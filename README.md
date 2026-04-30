@@ -1,6 +1,6 @@
 # gender-classify-api
 
-# HNG Stage 0 - Name Classification API
+# Name Classification API
 
 A simple backend service that integrates with the Genderize API to classify names and provide data insights.
 
